@@ -17,5 +17,13 @@
     "express": "^5.1.0",
     "express-session": "^1.18.2"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BradHamm/EcoProjLinkHub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BradHamm/EcoProjLinkHub/issues"
+  },
+  "homepage": "https://github.com/BradHamm/EcoProjLinkHub#readme"
 }

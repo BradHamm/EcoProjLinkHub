@@ -1,6 +1,8 @@
-<h1>Your Links</h1>
+<h3>Add a New Link</h3>
 <form method="POST" action="/add-link">
   <input name="title" placeholder="Link title" required>
-  <input name="url" placeholder="https://example.com" required>
-  <button>Add</button>
+  <input name="url" type="url" placeholder="https://example.com" required>
+  <button type="submit">Add Link</button>
 </form>
+<hr>
+<div id="links"></div>
